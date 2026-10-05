@@ -1,7 +1,13 @@
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a44efcaa-5eb3-4c63-ad94-955411cff1b4" />
+
+
+
 # Deadlock-Map-Optimizer
 map optimization  deadlock
 
 # Map Crop
+<img width="1920" height="1080" alt="testrenderaddon2" src="https://github.com/user-attachments/assets/36c323ae-9592-4dc3-858e-0c6cef403d55" />
 
 An add-on for Blender 5.1+ that simplifies the handling of large imported maps (such as Deadlock maps): it keeps only the desired portion of the map and what the camera sees.
 
@@ -37,4 +43,19 @@ Panel: 3D Viewport → Sidebar (N) → Map Crop.
 ## Installation
 
 Edit -> Preferences -> Add-ons -> Install from Disk → select `map_crop.py`.
+
+## tests
+
+Without addon with normal map render time: 1.5h in cycles and 30 min in eevee
+With addon - zone box- 5 sec in eevee, cycles - 45 sec
+
+By Miruneko
+
+Discord - m1ru_neko
+
+map by spenzo
+
+Good discord server: https://discord.gg/G2BF3xpYZv
+
+
 
